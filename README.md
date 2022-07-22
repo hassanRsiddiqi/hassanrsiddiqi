@@ -25,6 +25,10 @@ I am interested in and talking about Elixir, Phoenix, JavaScript, Node, and Soft
 ![](https://img.shields.io/badge/Stack-PETAL-blue)
 ![Profile views](https://gpvc.arturio.dev/hassanrsiddiqi)
 
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=ayu-mirage&animation=grow_out_in&layout=zues&font=default&quoteCategory=motivational)
+
+
 ### Connect with me:
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/hassanrsiddiqi) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hassan-raza-siddiqi/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:hassanrsiddiqi@gmail.com) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://hassanrsiddiqi.medium.com/) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](https://github.com/hassanRsiddiqi/hassanrsiddiqi/blob/main/resume/hassan-resume.pdf) [![whatsapp](https://img.shields.io/badge/--whatsap?label=whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=923008637770)
 
