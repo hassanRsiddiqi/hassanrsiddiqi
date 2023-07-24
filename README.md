@@ -26,7 +26,7 @@ I am interested in and talking about Elixir, Phoenix, JavaScript, Node, and Soft
 ![Profile views](https://gpvc.arturio.dev/hassanrsiddiqi)
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=ayu-mirage&animation=grow_out_in&layout=zues&font=default&quoteCategory=motivational)
+- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=ayu-mirage&animation=grow_out_in&layout=zues&font=default&quoteCategory=motivational)
 
 
 ### Connect with me:
