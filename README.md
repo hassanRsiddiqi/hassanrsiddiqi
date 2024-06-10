@@ -23,10 +23,7 @@ I am interested in and talking about Elixir, Phoenix, JavaScript, Node, and Soft
 
 ![](https://img.shields.io/badge/Language-Elixir-green) 
 ![](https://img.shields.io/badge/Stack-PETAL-blue)
-![Profile views](https://gpvc.arturio.dev/hassanrsiddiqi)
 
-
-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=ayu-mirage&animation=grow_out_in&layout=zues&font=default&quoteCategory=motivational)
 
 
 ### Connect with me:
